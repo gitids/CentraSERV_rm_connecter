@@ -30,7 +30,7 @@ class Residential_Manage_SRV extends CI_Controller {
     }
 
     public function index() {
-        
+        echo 'test';
     }
 
     public function home_verify_post() {
